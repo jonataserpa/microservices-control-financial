@@ -44,7 +44,7 @@ Precisamos extrair métricas gerenciais do sistema como um todo incluindo a gera
 Usamos o Kibana para gerar de forma simples e intuitiva todas as informações necessárias através de 
 gráficos e dashboards.
 
-!.[Dinamica do sistema].(https://cdn.discordapp.com/attachments/1008571086411145308/1082730875789258783/dinamica.png)
+![Dinamica do sistema](https://cdn.discordapp.com/attachments/1008571086411145308/1082730875789258783/dinamica.png)
 
 ## Ordem recomendada de execução
 * Apache Kafka
